@@ -1,0 +1,175 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  
+  
+
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #e4ebf5, #f0f4fb);
+}
+/* NAVBAR */
+nav {
+    background-color: #514f4f;
+    height: 5rem;
+    color: white;
+     position: fixed;
+     top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+
+  
+    
+    
+    ul {
+      padding: 0;
+      margin: 0;
+    }
+}
+li {
+  list-style: none;
+}
+.navlink-reset {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+main{
+  margin-top: 60px;       /* lascia spazio alla navbar */
+  height: calc(100vh - 60px); /* altezza rimanente della finestra */
+  overflow-y: auto;       /* scroll verticale solo qui */
+}
+
+/* HERO */
+
+.hero {
+  
+  width: 100%;
+  
+  height: calc(100vh - 60px);
+  background-image: url("https://www.santacruzbicycles.com/cdn/shop/files/MY25_HT_details_011.jpg?v=1736807828&width=2000");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.904);
+}
+
+
+
+
+/* brand */
+.badge-container {
+  padding: 0 1rem;
+}
+.brand-badge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  
+  border-radius: 10px;
+}
+
+.brand-box {
+  
+  background: rgba(255, 255, 255);
+  border-radius: 20px;
+  
+  
+
+  
+}
+
+.brand {
+    
+     width: 150px;
+    height: 100px;
+    object-fit: cover;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+/* BIKES PAGE  */
+
+ .bikes-page {
+    min-height: 100vh; /* copre tutta la finestra */
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* Tabella */
+.bikes-section-table {
+    background-color: rgba(255, 255, 255, 0.8); /* leggero sfondo bianco trasparente */
+    border-radius: 5%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+/* BIKE ROW */
+
+
+.favourite_btn {
+  border: none;
+  background-color: transparent;
+
+  .favourite_btn_on {
+    color: red;
+  }
+
+}
+
+/* BIKEDETAILS */
+.bike_card_container{
+  width: 1280px;
+  
+}
+
+.bikeCard {
+  
+  width: 1280px;
+  
+
+  .bikeCard_header {
+    height: 100px;
+  }
+
+  .bikeCard_main {
+    height: 450px;
+  }
+
+  .bike_card_details_badges {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border: 1px solid black;
+            border-radius: 10px;
+    margin: 0;
+  }
+  
+  
+}
+
+/* COMPARE  */
+
+.compare-card {
+  width: 300px;
+  cursor: pointer;
+}
+

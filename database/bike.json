@@ -1,0 +1,228 @@
+[
+  {
+    "title": "Cannondale SuperSix EVO 3",
+    "category": "road",
+    "usage": "corsa",
+    "brand": "Cannondale",
+    "frameMaterial": "carbon",
+    "wheelSize": 700,
+    "weight": 7.6,
+    "suspensionType": "rigid",
+    "price": 5200,
+    "colorOptions": [
+      "Black",
+      "White"
+    ],
+    "imageUrl": [
+      "https://embed.widencdn.net/img/dorelrl/jyianekhhj/1700px@1x/C24_C11502U_SuperSix_EVO_Crb_3_BLK_PD.webp?color=f8f8f8&q=99",
+      "https://embed.widencdn.net/img/dorelrl/ghkbdygrsq/1700px@1x/C23_C11502U_SuperSix_EVO_Crb_3_CHK_PD.webp?color=f8f8f8&q=99"
+    ],
+    "favourite": false,
+    "id": 1,
+    "createdAt": "2026-01-05T18:06:34.792Z",
+    "updatedAt": "2026-01-05T18:06:34.792Z"
+  },
+  {
+    "title": "Canyon Ultimate CF SL",
+    "category": "road",
+    "usage": "corsa",
+    "brand": "Canyon",
+    "frameMaterial": "carbon",
+    "wheelSize": 700,
+    "weight": 7.4,
+    "suspensionType": "rigid",
+    "price": 5400,
+    "colorOptions": [
+      "Black",
+      "Acid"
+    ],
+    "imageUrl": [
+      "https://dma.canyon.com/image/upload/w_1300,c_fit/b_rgb:F2F2F2/f_auto/q_auto/v1738924685/2026_FULL_ultimate_cf-slx-8-di2_4066_R100_P08_altcgg",
+      "https://dma.canyon.com/image/upload/w_1300,c_fit/b_rgb:F2F2F2/f_auto/q_auto/v1747233031/2026_FULL_ultimate_cf-slx-8-di2_4066_R100_P09_viseiz"
+    ],
+    "favourite": false,
+    "id": 2,
+    "createdAt": "2026-01-05T18:07:21.204Z",
+    "updatedAt": "2026-01-05T18:07:21.204Z"
+  },
+  {
+    "title": "Canyon Grizl 7",
+    "category": "gravel",
+    "usage": "gravel",
+    "brand": "Canyon",
+    "frameMaterial": "aluminum",
+    "wheelSize": 700,
+    "weight": 9.8,
+    "suspensionType": "rigid",
+    "price": 1900,
+    "colorOptions": [
+      "Darjeeling",
+      "Affogato"
+    ],
+    "imageUrl": [
+      "https://dma.canyon.com/image/upload/w_1300,c_fit/b_rgb:F2F2F2/f_auto/q_auto/v1729238173/2024_FULL_grizl_7_3715_R075_P06_c1273z",
+      "https://dma.canyon.com/image/upload/w_1300,c_fit/b_rgb:F2F2F2/f_auto/q_auto/v1733938747/0285EAF5-FC3B-4A34-BECEBB67AC0FF0C2"
+    ],
+    "favourite": false,
+    "id": 3,
+    "createdAt": "2026-01-05T18:10:01.648Z",
+    "updatedAt": "2026-01-05T18:10:01.648Z"
+  },
+  {
+    "title": "Cannondale Topstone Carbon 1 AXS",
+    "category": "gravel",
+    "usage": "gravel",
+    "brand": "Cannondale",
+    "frameMaterial": "carbon",
+    "wheelSize": 700,
+    "weight": 10.2,
+    "suspensionType": "micro_suspension",
+    "price": 5400,
+    "colorOptions": [
+      "Black",
+      "Phoenix Yellow"
+    ],
+    "imageUrl": [
+      "https://embed.widencdn.net/img/dorelrl/7xb1bsn4yr/1700px@1x/C25_C15305U_Topstone_Crb_1_AXS_BLK_PD.webp?color=f8f8f8&q=99",
+      "https://embed.widencdn.net/img/dorelrl/5ds9pdyskd/1700px@1x/C25_C15305U_Topstone_Crb_1_AXS_PYW_PD.webp?color=f8f8f8&q=99"
+    ],
+    "favourite": false,
+    "id": 4,
+    "createdAt": "2026-01-05T18:10:13.362Z",
+    "updatedAt": "2026-01-05T18:10:13.362Z"
+  },
+  {
+    "title": "Trek Session 9.9",
+    "category": "mtb",
+    "usage": "downhill",
+    "brand": "Trek",
+    "frameMaterial": "carbon",
+    "wheelSize": 29,
+    "weight": 17.5,
+    "suspensionType": "full_suspension",
+    "price": 6999,
+    "colorOptions": [
+      "Black"
+    ],
+    "imageUrl": [
+      "https://res.cloudinary.com/trekbikes/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_749,q_auto,w_1000/c_pad,h_749,w_1000/Session99DH29RSL_19_24584_A_Primary?pgw=1"
+    ],
+    "favourite": false,
+    "id": 5,
+    "createdAt": "2026-01-05T18:10:23.084Z",
+    "updatedAt": "2026-01-05T18:10:23.084Z"
+  },
+  {
+    "title": "Santa Cruz V10",
+    "category": "mtb",
+    "usage": "downhill",
+    "brand": "Santa Cruz",
+    "frameMaterial": "carbon",
+    "wheelSize": 29,
+    "weight": 16.9,
+    "suspensionType": "full_suspension",
+    "price": 6800,
+    "colorOptions": [
+      "Gloss Kelp Green",
+      "Gloss Black Sparkle"
+    ],
+    "imageUrl": [
+      "https://www.santacruzbicycles.com/cdn/shop/files/MY25_V10_CC_DH_S_GlossKelpGreen_92142ecf-bc8c-47a0-8f5e-e507d9c94d8b.png?width=1388",
+      "https://www.santacruzbicycles.com/cdn/shop/files/MY25_V10_CC_DH_S_GlossBlackSparkle_134a48ed-a9af-4dd8-aa25-a0ee2525f66f.png?width=1388"
+    ],
+    "favourite": false,
+    "id": 6,
+    "createdAt": "2026-01-05T18:10:31.981Z",
+    "updatedAt": "2026-01-05T18:10:31.981Z"
+  },
+  {
+    "title": "Canyon Stitched CFR Trial",
+    "category": "mtb",
+    "usage": "dirt",
+    "brand": "Canyon",
+    "frameMaterial": "carbon",
+    "wheelSize": 26,
+    "weight": 9.95,
+    "suspensionType": "rigid",
+    "price": 2400,
+    "colorOptions": [
+      "Guardian Angel",
+      "Tomomi Ensō Signature"
+    ],
+    "imageUrl": [
+      "https://dma.canyon.com/image/upload/w_2500,h_2500,c_fit/b_rgb:F2F2F2/f_auto/q_auto/v1733933423/D015524F-ACC8-4BE9-802AD9B564BF54E4",
+      "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dwbc327df4/images/full/full_2023_/2023/full_2023_3211_stitched-cfr-trial_P02_P5.jpg?sw=1300&sfrm=png&q=90&bgcolor=F2F2F2"
+    ],
+    "favourite": false,
+    "id": 7,
+    "createdAt": "2026-01-05T18:10:41.145Z",
+    "updatedAt": "2026-01-05T18:16:06.250Z"
+  },
+  {
+    "title": "Rose Bruce 1",
+    "category": "mtb",
+    "usage": "dirt",
+    "brand": "Rose",
+    "frameMaterial": "aluminum",
+    "wheelSize": 26,
+    "weight": 11.5,
+    "suspensionType": "hardtail",
+    "price": 1400,
+    "colorOptions": [
+      "Cloud"
+    ],
+    "imageUrl": [
+      "https://cdn.rosebikes.de/images/8F7F358152E06E9FDA67BF186CFCFFD7.png?im=Resize=1920"
+    ],
+    "favourite": false,
+    "id": 8,
+    "createdAt": "2026-01-05T18:10:56.395Z",
+    "updatedAt": "2026-01-05T18:10:56.395Z"
+  },
+  {
+    "title": "Santa Cruz Hightower 70",
+    "category": "mtb",
+    "usage": "trail",
+    "brand": "Santa Cruz",
+    "frameMaterial": "carbon",
+    "wheelSize": 29,
+    "weight": 15.74,
+    "suspensionType": "full_suspension",
+    "price": 5600,
+    "colorOptions": [
+      "Gloss Brick Red",
+      "Matte Black"
+    ],
+    "imageUrl": [
+      "https://www.santacruzbicycles.com/cdn/shop/files/MY26_Hightower_C_70_GlossBrickRed_c7540d50-25ed-4b40-89b0-a758d9ae718f.png?width=1388",
+      "https://www.santacruzbicycles.com/cdn/shop/files/MY26_Hightower_C_70_MatteBlack_b9567b8c-38ab-489b-a6a1-c7dc5c982f85.png?width=1388"
+    ],
+    "favourite": false,
+    "id": 9,
+    "createdAt": "2026-01-05T18:11:06.334Z",
+    "updatedAt": "2026-01-05T18:11:06.334Z"
+  },
+  {
+    "title": "Trek Fuel EX 8",
+    "category": "mtb",
+    "usage": "trail",
+    "brand": "Trek",
+    "frameMaterial": "aluminum",
+    "wheelSize": 29,
+    "weight": 14.5,
+    "suspensionType": "full_suspension",
+    "price": 3800,
+    "colorOptions": [
+      "Lithium Grey",
+      "Gloss Fury Red"
+    ],
+    "imageUrl": [
+      "https://res.cloudinary.com/trekbikes/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_900,q_auto,w_1200/c_pad,h_900,w_1200/FuelEX8-26-56308-A-Primary?pgw=1",
+      "https://res.cloudinary.com/trekbikes/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_900,q_auto,w_1200/c_pad,h_900,w_1200/FuelEX8-26-56308-B-Primary?pgw=1"
+    ],
+    "favourite": false,
+    "id": 10,
+    "createdAt": "2026-01-05T18:11:16.660Z",
+    "updatedAt": "2026-01-05T18:11:16.660Z"
+  }
+]
