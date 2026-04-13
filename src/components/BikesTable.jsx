@@ -63,7 +63,7 @@ export default function BikesTable({ bikes }) {
                     placeholder="Cerca modello..."
                     className="form-control w-50 mx-auto"
                     value={search}
-                    onChange={e => debounceSetSearch(e.target.value)}
+                    onChange={e => setSearch(e.target.value)}
                 />
                 <div className="d-flex-column justify-content-center my-4">
                     <p><strong>Categoria:</strong></p>
